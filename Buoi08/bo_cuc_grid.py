@@ -10,4 +10,4 @@ tk.Label(cua_so, text="Email:").grid(row=2, column=0, padx=10, pady=5, sticky="w
 tk.Button(cua_so, text="Dong y").grid(row=3, column=0, padx=10, pady=15)
 tk.Button(cua_so, text="Huy").grid(row=3, column=1, padx=10, pady=15)
 
-cua_so.mainloop()
+cua_so.mainloop() 
