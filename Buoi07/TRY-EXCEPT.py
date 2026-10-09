@@ -7,4 +7,4 @@ while True:
     except ValueError:
         print("Du lieu khong hop le, vui long nhap lai mot so nguyen.")
 
-print("So luong hop le da nhap:", so_luong)
+print("So luong hop le da nhap:", so_luong) 
