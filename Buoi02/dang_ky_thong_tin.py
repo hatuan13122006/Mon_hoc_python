@@ -11,4 +11,4 @@ email_hop_le = "@" in email                       # Kiểm tra sự tồn tại 
 # 3. Xuất kết quả ra màn hình
 print(f"Ho ten (da chuan hoa): {ho_ten_chuan}")
 print(f"So dien thoai hop le (du 10 ky tu)? {sdt_hop_le}")
-print(f"Email hop le (co ky tu @)? {email_hop_le}")
+print(f"Email hop le (co ky tu @)? {email_hop_le}") 

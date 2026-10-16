@@ -98,4 +98,4 @@ def in_thong_tin(ho_ten, tuoi, **kwargs):
 
 # Gọi thử nghiệm
 in_thong_tin("Nguyen Van A", 20, lop="CNTT01", que_quan="Ha Noi")
-in_thong_tin("Tran Thi B", 21, email="b@example.com")
+in_thong_tin("Tran Thi B", 21, email="b@example.com") 
